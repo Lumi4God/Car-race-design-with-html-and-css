@@ -54,7 +54,7 @@ header{
     z-index: 1;
     animation: city 20s linear infinite;
 }
-/*city nanimation*/
+/*city animation*/
 @keyframes city{
     100%{
         transform: translateX(-1280px);
@@ -108,9 +108,9 @@ header{
 }
 .back-wheel{
     position: absolute;
-    left: -355px;
+    left: -360px;
 }
 .front-wheel{
     position: absolute;
-    right: 7px;
+    right: 11px;
 }
